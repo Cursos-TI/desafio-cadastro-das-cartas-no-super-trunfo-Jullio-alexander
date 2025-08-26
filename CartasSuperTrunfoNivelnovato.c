@@ -41,7 +41,7 @@ printf("Cadastro da Carta 1 \n");
   printf("PIB: ");
   scanf("%f", &PIB1);
 
-  printf("Numero de pontos turistico");
+  printf("Numero de pontos turistico: ");
   scanf("%d", &Numero_pontos_turistico1);
 
 printf("\n"); // Adicionar uma linha para separar
@@ -65,7 +65,7 @@ printf("Cadastro da Carta 2 \n");
   printf("PIB: ");
   scanf("%f", &PIB2);
 
-  printf("Numero de pontos turistico");
+  printf("Numero de pontos turistico: ");
   scanf("%d", &Numero_pontos_turistico2);
 
 //Exibição das Cartas
